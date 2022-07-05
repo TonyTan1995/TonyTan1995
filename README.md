@@ -2,25 +2,36 @@
 <img src="images.jpg" align="center" style="width: 100%" />
 </div>  
   
+<p align="center">
+  <a href="https://github.com/TonyTan1995"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+<h2>[BLOCHCHAIN]</h2>
+<b>I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
+projects.</b><br>
+<b>Being well versed in backend I also have notable experience and expertise in frontend as well, that includes the following skill set :</b><br>
+<br>&nbsp; &nbsp; ✓ Smart Contract using ERC20, ERC721, ERC1155, BEP20, SPL(Token, NFT market for)
+<br>&nbsp; &nbsp; ✓ DeFi(Decentralized Finance) DApps such as Lending, Staking, Banking, CEX/DEX
+<br>&nbsp; &nbsp; ✓ Deploy and Testing by Truffle/Hardhat
+<br>&nbsp; &nbsp; ✓ NFT Apps such as minting sites and marketplace based on ETH, BSC and Solana using Solidity and Rust.
+<br>&nbsp; &nbsp; ✓ Web3.js, Web3.py for Blockchain Interactive with Frontend
+<br>&nbsp; &nbsp; ✓ Crypto Trading bot(sniper bot, arbitrage bot, frontrunning bot)
+<br>&nbsp; &nbsp; ✓ Backend with GraphQL on various blockchain networks
+<br>&nbsp; &nbsp; ✓ Wallet connection using web3.js or ether.js
+<br>&nbsp; &nbsp; ✓ NFT minting & staking, marketplace Development
+<br>&nbsp; &nbsp; ✓ Cross-Chain-Bridge Development.
+<br>&nbsp; &nbsp; ✓ Child Token, Bridge Contract development
 
-### <div align="center">
-I am a highly-skilled full-stack developer with over 6 years of experience in React development.
-I am proficient in translating designs into high-quality code and implementing highlyresponsive user interface components with React concepts.
-My primary focus is on Web and Blockchain development. 
-I am keen on writing clean and reusable code using best practices
-</div>  
-  
+<h2>[WEB && MOBILE]</h2>  
+<b>I have +4 years of rich and very strong experience in this stack and skills.</b><br>
+<br>&nbsp; &nbsp; ✓ Native: React/React Native, Vue/Nuxt, Angular,Laravel  Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
+<br>&nbsp; &nbsp; ✓ Figma/XD/PSD design to Frontend with pixel perfect and full responsive
+<br>&nbsp; &nbsp; ✓ Web service: XML/JSON, REST/SOAP
+<br>&nbsp; &nbsp; ✓ Cloud backend: Firebase, Amazon S3 EC2 AWS
+<br>&nbsp; &nbsp; ✓ Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
+<br>&nbsp; &nbsp; ✓ HTML5, PHP, Javascript and their frameworks
+<br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
+<br>&nbsp; &nbsp; ✓ Github, Gitlab
 
-- 🌱My strengths are creativity, responsibility, commitment to time commitment, and high quality.
-😝  
-  
-
-- ⚡ Especially in the frontend, it surprises everyone who sees it with its outstanding artistic sense.
-A professional face-to-face part with high performance that users are familiar with through constant revision of design, addition of good ideas, analysis of design from the designer's point of view and user's point of view, and revisions accordingly, and giving different feelings depending on the format of the site throughout the development process configuration.  
-  
-
-- And the introduction of high-performance technology in the backend, dramatic modularization of all functions and ninja coding as needed, various APIs and databases, perfect combination with the frontend, all exception condition checks and processing accordingly.  
-  
 
 <br/>  
 
