@@ -132,4 +132,3 @@ projects.</b><br>
 <hr>
 
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />"# TonyTan1995" 
